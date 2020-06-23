@@ -36,6 +36,8 @@ or
 
 `./template.py put_template --index_pattern=<index_pattern> --use_data_nodes=<use_data_nodes>`
 
+**Options:**
+
 `index_pattern`     string representing the base name of the indices.e.g log-*.
 
 `use_data_nodes`    this flag dictates to check number of the data nodes in cluster and then use the number as number of primary shards.
