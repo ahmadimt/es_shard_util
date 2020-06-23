@@ -1,0 +1,8 @@
+# requests
+requests>=2.0.0, <3.0.0
+
+# Cli Tool
+docopt==0.6.2
+
+# templating engine
+chevron==0.13.1
